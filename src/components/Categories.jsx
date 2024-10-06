@@ -10,7 +10,7 @@ const Container = styled.div`
     padding: 20px;
     justify-content: space-between;
     background-color: #1e1e1e;
-    ${mobile({ padding: "0px", flexDirection: "column" })} 
+    ${mobile({ marginTop: "60px", padding: "0px", flexDirection: "column" })} 
 `;
 
 const Categories = () => {

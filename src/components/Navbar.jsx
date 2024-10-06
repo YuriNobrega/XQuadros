@@ -63,7 +63,6 @@ const Center = styled.div`
     display: flex;
     justify-content: center;
     letter-spacing: 3px;
-    
 `;
 
 const Right = styled.div`

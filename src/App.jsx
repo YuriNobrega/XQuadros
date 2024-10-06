@@ -1,9 +1,8 @@
 import React from 'react';
-// eslint-disable-next-line
 import Home from './pages/Home';
 // eslint-disable-next-line
 import ProductList from './pages/ProductList';
-
+// eslint-disable-next-line
 import Product from './pages/Product';
 // eslint-disable-next-line
 import Register from './pages/Register';
@@ -14,7 +13,7 @@ import Cart from './pages/Cart';
 
 
 const App = () => {
-  return <Product />;
+  return <Home />;
 };
 
 export default App;
